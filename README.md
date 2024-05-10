@@ -1,6 +1,5 @@
 # MyProjects
 
-/*
 Hello my name is Daniel and here on my GitHub profile you can find some of my personal projects.
 This file explains what the projects are about.
 
@@ -28,5 +27,7 @@ Second component the java middle service:
   accepted by the front end, also has the logic for computing the time when the user will be in a certain location 
   in order to get more accurate weather predicitons.
   
-
-*/
+Third component the python service where the ai model is hosted :
+  This service is a Python Rest server developed with the help of the Django framework, it hosts the ai model.
+  About the ai, it is a Ridge regression model that was trained with 2.9 mil weather realated data from 2023 
+  in Romania.
